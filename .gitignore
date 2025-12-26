@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Agent and AI assistant files
+AGENTS.md
+CLAUDE.md
+
+# GitHub config
+.github/
+
+# CSS files
+*.css
+
+# Temporary files
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# Local test files
+/test/
+/tmp/
+
+# AI assistant rules
+.clinerules/
+.kilocode/
+.roo/
+.windsurf/
+.cursor/
+.kiro/
+.qoder/
+.augment/
